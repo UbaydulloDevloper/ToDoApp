@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ToDoApp/app/src/main/res/drawable/bacraunt_button.xml" value="0.17222222222222222" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/activity_add_todo.xml" value="0.17300724637681159" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/activity_list_aboute.xml" value="0.176" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/activity_to_dolist.xml" value="0.17300724637681159" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/item_child_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/item_spinner.xml" value="0.29464285714285715" />
+        <entry key="..\:/ToDoApp/app/src/main/res/layout/todolist_item.xml" value="0.136" />
+        <entry key="..\:/proektlarim/ToDoApp/app/src/main/res/layout/activity_add_todo.xml" value="0.16893115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
